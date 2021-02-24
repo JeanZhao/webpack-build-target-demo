@@ -1,5 +1,5 @@
 # webpack-build-target-demo
-关于webpack打包规范的示例代码
+webpack打包规范的示例代码
 
 本仓库示例代码，用于webpack打包规范学习参考，其中webpack v5.21.1， webpack v4.5.0。   
 
